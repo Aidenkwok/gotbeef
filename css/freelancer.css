@@ -507,3 +507,14 @@ fieldset[disabled] .btn-success.active {
 .img-responsive{
   width:20em;
 }
+
+header{
+  background-image: url("../img/background.svg");
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.intro-text{
+  background-color: #BF4641;
+  padding:1em;
+}
