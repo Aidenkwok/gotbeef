@@ -524,3 +524,8 @@ header{
   width:5em;
   height:auto;
 }
+
+.slow-spin {
+  -webkit-animation: fa-spin 6s infinite linear;
+  animation: fa-spin 6s infinite linear;
+}
