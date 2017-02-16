@@ -512,6 +512,7 @@ header{
   background-image: url("../img/background.svg");
   background-repeat: no-repeat;
   background-position: center; 
+  background-size: cover;
 }
 
 .intro-text{
