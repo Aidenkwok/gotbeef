@@ -104,7 +104,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #084572;
+  background: #00A3A6;
   font-family: "Gill Sans Ultrabold","Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -129,7 +129,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #BF4641;
+  color: #C4284F;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -138,13 +138,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #BF4641;
+  background: #C4284F;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #BF4641;
+  background: #C4284F;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -154,9 +154,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #BF4641;
+  background-color: #C4284F;
   color: white;
-  border-color: #BF4641;
+  border-color: #C4284F;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -186,7 +186,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #BF4641;
+  background: #00A3A6;
   color: white;
 }
 @media (max-width: 767px) {
@@ -340,7 +340,7 @@ footer .footer-below {
 .open .dropdown-toggle.btn-primary {
   color: white;
   background-color: #C4284F;
-  border-color: #161f29;
+  border-color: #00A3A6;
 }
 .btn-primary:active,
 .btn-primary.active,
