@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Gill Sans Ultrabold",'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
 p {
@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #BF4641;
+  color: #C4284F;
   outline: none;
 }
 h1,
@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Gill Sans Ultrabold", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -54,22 +54,22 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #BF4641;
+  background-color: #C4284F;
   color: white;
 }
 hr.star-primary {
-  border-color: #084572;
-}
+  border-color: #C4284F;
+} 
 hr.star-primary:after {
   background-color: white;
-  color: #084572;
+  color: #C4284F;
 }
 .img-centered {
   margin: 0 auto;
 }
 header {
   text-align: center;
-  background: #BF4641;
+  background: #C4284F;
   color: white;
 }
 header .container {
@@ -82,7 +82,7 @@ header img {
 }
 header .intro-text .name {
   display: block;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Gill Sans Ultrabold", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 2em;
@@ -105,7 +105,7 @@ header .intro-text .skills {
 }
 .navbar-custom {
   background: #084572;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Gill Sans Ultrabold","Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   border: none;
@@ -249,7 +249,7 @@ section.success {
   position: relative;
   margin-bottom: 0;
   padding-bottom: 0.5em;
-  border-bottom: 1px solid #eeeeee;
+  border-bottom: 1px solid #C4284F;
 }
 .floating-label-form-group input,
 .floating-label-form-group textarea {
@@ -282,17 +282,17 @@ section.success {
 }
 .floating-label-form-group:not(:first-child) {
   padding-left: 14px;
-  border-left: 1px solid #eeeeee;
+  border-left: 1px solid #C4284F;
 }
 .floating-label-form-group-with-value label {
   top: 0;
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #BF4641;
+  color: #C4284F;
 }
 form .row:first-child .floating-label-form-group {
-  border-top: 1px solid #eeeeee;
+  border-top: 1px solid #C4284F;
 }
 footer {
   color: white;
@@ -302,14 +302,14 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #084572;
+  background-color: #C4284F;
 }
 footer .footer-col {
   margin-bottom: 50px;
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #233140;
+  background-color: #C4284F;
 }
 .btn-outline {
   color: white;
@@ -329,8 +329,8 @@ footer .footer-below {
 }
 .btn-primary {
   color: white;
-  background-color: #084572;
-  border-color: #084572;
+  background-color: #C4284F;
+  border-color: #C4284F;
   font-weight: 700;
 }
 .btn-primary:hover,
@@ -339,7 +339,7 @@ footer .footer-below {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #1a242f;
+  background-color: #C4284F;
   border-color: #161f29;
 }
 .btn-primary:active,
@@ -362,17 +362,17 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #084572;
-  border-color: #084572;
+  background-color: #C4284F;
+  border-color: #C4284F;
 }
 .btn-primary .badge {
-  color: #084572;
+  color: #C4284F;
   background-color: white;
 }
 .btn-success {
   color: white;
-  background-color: #BF4641;
-  border-color: #BF4641;
+  background-color: #C4284F;
+  border-color: #C4284F;
   font-weight: 700;
 }
 .btn-success:hover,
@@ -381,8 +381,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
   color: white;
-  background-color: #084572;
-  border-color: #084572;
+  background-color: #C4284F;
+  border-color: #C4284F;
 }
 .btn-success:active,
 .btn-success.active,
@@ -404,11 +404,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #BF4641;
-  border-color: #BF4641;
+  background-color: #C4284F;
+  border-color: #C4284F;
 }
 .btn-success .badge {
-  color: #BF4641;
+  color: #C4284F;
   background-color: white;
 }
 .btn-social {
@@ -480,7 +480,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #084572;
+  background-color: #C4284F;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -491,7 +491,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #084572;
+  background-color: #C4284F;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
@@ -508,15 +508,15 @@ fieldset[disabled] .btn-success.active {
   width:20em;
 }
 
-header{
+/*header{
   background-image: url("../img/background.svg");
   background-repeat: no-repeat;
   background-position: center; 
   background-size: cover;
-}
+}*/
 
 .intro-text{
-  background-color: #BF4641;
+  background-color: #C4284F;
   padding:1em;
 }
 
@@ -525,7 +525,7 @@ header{
   height:auto;
 }
 
-.slow-spin {
+/*.slow-spin {
   -webkit-animation: fa-spin 6s infinite linear;
   animation: fa-spin 6s infinite linear;
-}
+}*/
