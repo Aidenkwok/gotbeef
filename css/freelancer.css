@@ -186,7 +186,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #00A3A6;
+  background: #C4284F;
   color: white;
 }
 @media (max-width: 767px) {
@@ -249,7 +249,7 @@ section.success {
   position: relative;
   margin-bottom: 0;
   padding-bottom: 0.5em;
-  border-bottom: 1px solid #C4284F;
+  border-bottom: 1px solid white;
 }
 .floating-label-form-group input,
 .floating-label-form-group textarea {
@@ -340,7 +340,7 @@ footer .footer-below {
 .open .dropdown-toggle.btn-primary {
   color: white;
   background-color: #C4284F;
-  border-color: #00A3A6;
+  border-color: #C4284F;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -374,6 +374,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: #C4284F;
   border-color: #C4284F;
   font-weight: 700;
+
 }
 .btn-success:hover,
 .btn-success:focus,
